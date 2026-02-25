@@ -42,3 +42,13 @@ IoT dashboard integration
 Low-cost embedded system
 
 Energy efficient
+
+---
+
+## 👨‍💻 Author
+
+**Atul Kankal**  
+Final Year Engineering Student  
+IoT & Embedded Systems Enthusiast  
+
+---
