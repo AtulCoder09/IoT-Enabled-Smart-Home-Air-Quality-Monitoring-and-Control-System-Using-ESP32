@@ -48,7 +48,9 @@ Energy efficient
 ## 👨‍💻 Author
 
 **Atul Kankal**  
-Final Year Engineering Student  
-IoT & Embedded Systems Enthusiast  
+🎓 Mechanical Engineering Student  
+🔧 IoT & Embedded Systems Developer  
+📡 Interested in AI + IoT Integration  
+📫 Connect with me on LinkedIn  
 
 ---
